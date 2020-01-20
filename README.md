@@ -1,6 +1,10 @@
 # rent-scam-detection
 A data science project with the main objective of detecting rental scamming adverts.
 
+The repository contains the following files:
+- `scammer_classifier.ipynb` - The Jupyter notebook in which you can find the implementantion of the data science pipeline
+- `train.csv` - The training data
+
 This project is meant to showcase my ability to form an typical data science and analysis project in Python, similar to a Kaggle competition, using a database of housing listings from a Dutch rental platform. 
 
 **The objective** is to train a machine learning algorithm - or an ensemble of algorithms - to detect whether an ad is in fact legitimate or a fake offering and a method to defraud the users of the platform.
